@@ -1,1 +1,1 @@
-web: ghost start
+web: npm ghost start
